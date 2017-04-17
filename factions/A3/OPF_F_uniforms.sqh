@@ -1,0 +1,41 @@
+uniforms[] =
+{
+//===========================================================================
+// UNIFORMS
+//===========================================================================
+
+
+
+	{"rhs_chdkz_uniform_4", {__ICE_gear_allRoles}},
+
+
+	{"U_O_Wetsuit", {__ICE_gear_Diver}},
+
+	{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+
+//===========================================================================
+// VESTS
+//===========================================================================
+
+	{"rhsgref_6b23_khaki_rifleman", {__ICE_gear_allRoles}},
+
+
+
+
+
+
+//===========================================================================
+// HELMETS
+//===========================================================================
+
+
+	{"rhs_6b27m_green", {__ICE_gear_allRoles}},
+
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+
+//	{"rhs_Booniehat_digi", {__ICE_gear_Sniper}},
+	{"H_Booniehat_oli", {__ICE_gear_Marksman, __ICE_gear_Diver, __ICE_gear_Sniper}},
+	{"H_Bandanna_khk", {__ICE_gear_Medic}},
+
+	{"rhs_gssh18", {__ICE_gear_Pilot}},
+};

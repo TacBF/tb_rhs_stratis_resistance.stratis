@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Stratis_Resistance">
+
+	<Key ID="STR_TB_missionTitle_TB_Stratis_Resistance">
+		<Original>Stratis_Resistance</Original>
+		<English>Stratis_Resistance</English>
+		<German>Stratis_Resistance</German>
+		<Italian>Stratis_Resistance</Italian>
+		<Spanish>Stratis_Resistance</Spanish>
+		<French>Stratis_Resistance</French>
+		<Czech>Stratis_Resistance</Czech>
+		<Russian>Stratis_Resistance</Russian>
+		<Polish>Stratis_Resistance</Polish>
+		<Hungarian>Stratis_Resistance</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Stratis_Resistance">
+		<Original>TacBF A&amp;S[T-10]: Stratis_Resistance</Original>
+		<English>TacBF A&amp;S[T-10]: Stratis_Resistance</English>
+		<German>TacBF A&amp;S[T-10]: Stratis_Resistance</German>
+		<Italian>TacBF A&amp;S[T-10]: Stratis_Resistance</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Stratis_Resistance</Spanish>
+		<French>TacBF A&amp;S[T-10]: Stratis_Resistance</French>
+		<Czech>TacBF A&amp;S[T-10]: Stratis_Resistance</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Stratis_Resistance</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Stratis_Resistance</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Stratis_Resistance</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
